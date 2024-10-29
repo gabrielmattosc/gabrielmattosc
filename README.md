@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gabrielmattosc
+- 👀 I’m interested in Front and Back end
+- 🌱 I’m currently learning React and Node.js
+- 💞️ I’m looking to collaborate on projects
+- ⚡ Fun fact: GYM RAT
